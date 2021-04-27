@@ -3,7 +3,8 @@
 ## 소개
 
 2015년부터 혼자서 게임프로그래밍을 공부하고 있습니다.
-여러가지 해본 결과 게임 프로그래밍만 하기로 결심 했습니다.
+
+다른 기술도 관심이 있지만 게임 프로그래밍이 가장 하고싶은 기술입니다.
 
 ## Contact
 
@@ -15,7 +16,7 @@
 
 ### Unity
 
-- [UnityManagers](https://github.com/aszd0708/UnityGameManagers) : 유니티 프로젝트 제작중 사용한 자체제작 유틸리티들
+- [UnityManagers](https://github.com/aszd0708/UnityGameManagers) : 유니티 프로젝트 제작중 사용한 자체제작 유틸리티
 
 - [집사가 돼 줄 고양?(가제)](https://bitbucket.org/aszd0708/meow-_versionup/src/master/) : 마을에 있는 동물들을 찾아서 동물의 집에 보내는 핸드폰 게임
 
