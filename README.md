@@ -33,11 +33,11 @@
 
 - [세탁기 알람](https://www.youtube.com/watch?v=rt-ju-J1BGk) : 교내 기숙사의 세탁기 알람
 
-- 사용기술
+  사용기술
 
-1. 어플리케이션 : AndroidStudio
-2. 서버 : Firebase
-3. 하드웨어 : Arduino
+  1. 어플리케이션 : AndroidStudio
+  2. 서버 : Firebase
+  3. 하드웨어 : Arduino
 
 ## 수상 내역
 
