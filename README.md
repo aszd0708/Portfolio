@@ -26,8 +26,7 @@
 
 ### Unreal
 
-- [SoulLike]() : 소울류 게임을 모방해서 만든 토이 프로젝트
-제작기간 약 4주
+- [SoulLike](https://github.com/aszd0708/SoulLike) : 소울류 게임을 모방해서 만든 토이 프로젝트
 
 ### Android
 
